@@ -14,6 +14,7 @@ This repository is for use in my Udemy Courses "[Docker Mastery](https://www.ude
 1. Quick Start!
    1. [README](./intro/README.md)
    2. [Commands and Links](./references/S01%20Commands%20and%20Links.md)
+   3. [FAQ](https://www.udemy.com/course/docker-mastery/learn/lecture/10091380#questions)
 2. Course Introduction
 3. The Best Way to Setup Docker for Your OS
 4. Creating and Using Containers Like a Boss
